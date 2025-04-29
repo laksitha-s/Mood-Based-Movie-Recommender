@@ -13,11 +13,11 @@ Built using **Python**, **Streamlit**, and **scikit-learn**.
 
 ## 📂 Project Structure
 
-mood-movie-recommender/ 
-      ├── app.py # Main Streamlit app 
-      ├── movies_dataset.csv # Dataset used for recommendations 
-      ├── requirements.txt # Python dependencies 
-      ├── README.md # Project description
+mood-movie-recommender/ <br>
+      ├── app.py # Main Streamlit app <br>
+      ├── movies_dataset.csv # Dataset used for recommendations <br>
+      ├── requirements.txt # Python dependencies <br>
+      ├── README.md # Project description<br>
 
 
 ---
