@@ -7,8 +7,7 @@ Built using **Python**, **Streamlit**, and **scikit-learn**.
 ---
 
 ## 🚀 Live Demo
-[Click here to try the app on Streamlit Cloud](https://your-deployed-app-link.streamlit.app)  
-*(Replace with your actual deployed link)*
+[Click here to try the app on Streamlit Cloud](https://mood-based-movie-recommender.streamlit.app/)  
 
 ---
 
@@ -52,7 +51,7 @@ mood-movie-recommender/
    ```bash
      streamlit run app.py
 
-##🌐 Deployment
+## 🌐 Deployment
 1. This app is deployed using Streamlit Cloud:
 
 2. Push your code to GitHub
