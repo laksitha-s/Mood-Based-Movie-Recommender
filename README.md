@@ -38,8 +38,8 @@ mood-movie-recommender/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mood-movie-recommender.git
-   cd mood-movie-recommender
+   git clone https://github.com/laksitha-s/Mood-Based-Movie-Recommender
+   cd Mood-Based-Movie-Recommender
 2. Optional but recommended) Create a virtual environment:
    ```bash
      python -m venv venv
