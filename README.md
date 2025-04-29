@@ -62,6 +62,6 @@ mood-movie-recommender/
 
 5. Set app.py as the main file and deploy!
 
-📧 Contact
-Built with ❤️ by Laksitha
+## 📧 Contact<br>
+Built with ❤️ by Laksitha<br>
 Feel free to contribute or reach out!
